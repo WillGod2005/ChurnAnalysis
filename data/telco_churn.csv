@@ -1,0 +1,21 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+1000,Male,0,Yes,No,1,Yes,No,DSL,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,20.0,20.0,Yes
+1001,Female,1,No,Yes,2,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,Yes,One year,No,Mailed check,23.1,32.5,No
+1002,Male,0,Yes,No,3,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),26.2,45.0,Yes
+1003,Female,1,No,Yes,4,Yes,No,DSL,No,Yes,No,No,Yes,No,Month-to-month,No,Credit card (automatic),29.3,57.5,No
+1004,Male,0,Yes,No,5,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,Yes,One year,Yes,Electronic check,32.4,70.0,Yes
+1005,Female,1,No,Yes,6,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,35.5,82.5,No
+1006,Male,0,Yes,No,7,Yes,No,DSL,No,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),38.6,95.0,Yes
+1007,Female,1,No,Yes,8,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,Yes,One year,No,Credit card (automatic),41.7,107.5,No
+1008,Male,0,Yes,No,9,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,44.8,120.0,Yes
+1009,Female,1,No,Yes,10,Yes,No,DSL,No,Yes,No,No,Yes,No,Month-to-month,No,Mailed check,47.9,132.5,No
+1010,Male,0,Yes,No,11,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,Yes,One year,Yes,Bank transfer (automatic),51.0,145.0,Yes
+1011,Female,1,No,Yes,12,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),54.1,157.5,No
+1012,Male,0,Yes,No,13,Yes,No,DSL,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,57.2,170.0,Yes
+1013,Female,1,No,Yes,14,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,Yes,One year,No,Mailed check,60.3,182.5,No
+1014,Male,0,Yes,No,15,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),63.4,195.0,Yes
+1015,Female,1,No,Yes,16,Yes,No,DSL,No,Yes,No,No,Yes,No,Month-to-month,No,Credit card (automatic),66.5,207.5,No
+1016,Male,0,Yes,No,17,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,Yes,One year,Yes,Electronic check,69.6,220.0,Yes
+1017,Female,1,No,Yes,18,Yes,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,72.7,232.5,No
+1018,Male,0,Yes,No,19,Yes,No,DSL,Yes,No,Yes,No,Yes,No,One year,Yes,Bank transfer (automatic),75.8,245.0,Yes
+1019,Female,1,No,Yes,20,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,No,Credit card (automatic),78.9,257.5,No
